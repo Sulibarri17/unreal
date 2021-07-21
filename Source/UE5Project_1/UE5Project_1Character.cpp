@@ -141,5 +141,5 @@ void AUE5Project_1Character::MoveRight(float Value)
 
 void AUE5Project_1Character::PrintLog()
 {
-	UE_LOG(LogTemp, Warning, TEXT("PrintLog"));
+	UE_LOG(LogTemp, Warning, TEXT("PrintLog should be printed this way. Master version rules."));
 }
