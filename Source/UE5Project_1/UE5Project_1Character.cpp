@@ -141,5 +141,5 @@ void AUE5Project_1Character::MoveRight(float Value)
 
 void AUE5Project_1Character::PrintLog()
 {
-	UE_LOG(LogTemp, Warning, TEXT("Printing a log message!"));
+	UE_LOG(LogTemp, Warning, TEXT("PrintLog"));
 }
